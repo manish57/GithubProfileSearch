@@ -1,5 +1,7 @@
 # GithubProfileSearch
 
+Search Github Profiles of any users
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.1.
 
 ## Development server
